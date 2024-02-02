@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LKavyaa
-- 👀 I’m interested in songs
+- 👀 I’m interested 
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me email
-- ⚡ Fun fact: foood
+- ⚡ Fun fact: 
 
 <!---
 LKavyaa/LKavyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
